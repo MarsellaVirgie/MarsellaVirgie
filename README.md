@@ -1,4 +1,4 @@
-### Hello!!! My name is Marsella Virgie 👋
+### **Hello!!! My name is Marsella Virgie 👋**
 
 <!--
 **MarsellaVirgie/MarsellaVirgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
