@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other content creator**
 
-- 🤝 I’m looking for help with **a expert developer cuz i'm a beginner✌️**
+- 🤝 I’m looking for help with **a expert developer cuz i'm a beginner**
 
 - 💬 Ask me about **anything✨**
 
