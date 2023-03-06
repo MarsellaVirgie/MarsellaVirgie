@@ -1,3 +1,4 @@
+![logo](https://github.com/MarsellaVirgie/MarsellaVirgie/blob/main/githubbanner.jpg)
 <h1 align="center">Hi Guys👋, I'm ✨Marsella Virgie✨</h1>
 <h3 align="center">A student from MDP University</h3>
 <img align="right" width="400" src="https://data.whicdn.com/images/279099766/original.gif">
